@@ -1,5 +1,5 @@
 ## Below are two functions that create a special "matrix" object
-## and cache its inverse. Note, this assignment assumes that the
+## and cache its inverse. Note, this code assumes that the
 ## matrix supplied is always a square invertible matrix.
 
 ## The first function, makeCacheMatrix, creates a special "matrix"
